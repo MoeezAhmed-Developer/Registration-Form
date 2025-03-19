@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "DM Sans", sans-serif;
+}
+
+.form-container {
+  background-color: #f8f8f8;
+  border-radius: 8px;
+  max-width: 400px;
+  padding: 50px;
+  margin: 150px;
+}
+
+form input {
+  outline: none;
+  font-family: "DM Sans", sans-serif;
+  width: 100%;
+}
+
+form label {
+  font-size: 15px;
+}
+
+button {
+  background-color: #001542;
+  color: #fff;
+  border: none;
+  border-radius: 2px;
+  font-family: "DM Sans", sans-serif;
+  padding: 10px 20px;
+  cursor: pointer;
+}
